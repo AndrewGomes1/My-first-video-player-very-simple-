@@ -11,7 +11,8 @@ FFmpeg:
 #include <libavutil/avutil.h>,
 #include <libswresample/swresample.h>
 
-The thing i couldn't do:
-I couldn't convert YUV to RGB24 using #include <libswscale/swscale.h> libraries function.
-but SDL3 automatically convert YUV to RGB.
+customtkinter
 
+---------------------------
+Languages Used:
+C & Python
